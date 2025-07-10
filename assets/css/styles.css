@@ -79,7 +79,7 @@ html, body {
 
 /* Mensajes */
 .message-user, .message-bot {
-  max-width: 70%;
+  max-width: 90%;
   padding: 14px 18px;
   border-radius: 20px;
   margin-bottom: 8px;
@@ -187,8 +187,7 @@ html, body {
 /* Contenido de los mensajes */
 .message-user > div:first-child,
 .message-bot > div:first-child {
-  font-weight: 500;
-  font-size: 0.95rem;
+  font-size: 0.80rem;
   margin-bottom: 6px;
 }
 
