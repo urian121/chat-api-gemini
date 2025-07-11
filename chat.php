@@ -31,10 +31,12 @@ function callGeminiAPI($message, $apiKey, $apiUrl) {
             ]
         ],
         'generationConfig' => [
-            'temperature' => 0.7,
-            'topK' => 40,
-            'topP' => 0.95,
-            'maxOutputTokens' => 1024,
+            'temperature' => 0.4,
+            'topK' => 25,
+            'topP' => 0.85,
+            'maxOutputTokens' => 400,
+            'candidateCount' => 1,
+            'stopSequences' => []
         ],
         'safetySettings' => [
             [
@@ -200,9 +202,9 @@ try {
         echo json_encode(['success' => false, 'message' => 'cURL no está disponible en este servidor']);
         exit;
     }
-    
+
     // Preparar el contexto para Gemini
-    $contextualMessage = "Eres un asistente de IA útil y amigable llamado Gemini. Responde de manera clara, concisa y educativa. Si no sabes algo, admítelo honestamente. Responde en español.\n\nPregunta del usuario: " . $message;
+    $contextualMessage = "Eres Gemini, un asistente IA eficiente. Responde de forma BREVE y PRECISA. Máximo 3-4 oraciones. Poca introducciones y minimas explicaciones. Directo al punto. Responde en español.\n\nPregunta: " . $message;
     
     // Hacer la solicitud a Gemini
     $response = callGeminiAPI($contextualMessage, $apiKey, $apiUrl);

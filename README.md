@@ -1,7 +1,8 @@
 # 🤖 Chat IA - Gemini
 
-Chat moderno con Google Gemini AI, reconocimiento de voz y formateo de código.
+Aplicación de chat inteligente con Google Gemini 2.0 Flash, diseño moderno, reconocimiento de voz y respuestas optimizadas para máxima eficiencia.
 
+![Demo](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/api-gemini-php-javascript.png)
 ## ✨ Características
 
 - **Interfaz moderna** con diseño centrado y responsivo
