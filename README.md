@@ -39,4 +39,18 @@ Aplicación de chat inteligente con Google Gemini 2.0 Flash, diseño moderno, re
 
 - Mantén tu API key privada
 - Funciona mejor en HTTPS para el micrófono
-- Requiere permisos de micrófono del navegador 
+- Requiere permisos de micrófono del navegador
+
+## 🙌 Cómo puedes apoyar 📢:
+
+✨ **Comparte este proyecto** con otros desarrolladores para que puedan beneficiarse 📢.
+
+☕ **Invítame un café o una cerveza 🍺**:
+   - [Paypal](https://www.paypal.me/iamdeveloper86) (`iamdeveloper86@gmail.com`).
+
+### ⚡ ¡No olvides SUSCRIBIRTE a la [Comunidad WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera?sub_confirmation=1)!
+
+
+#### ⭐ **Déjanos una estrella en GitHub**:
+   - Dicen que trae buena suerte 🍀.
+**Gracias por tu apoyo 🤓.**
