@@ -5,7 +5,7 @@ header('Access-Control-Allow-Methods: POST');
 header('Access-Control-Allow-Headers: Content-Type, X-Requested-With');
 
 // Configuración de la API de Google Gemini
-$apiKey = 'AIzaSyBWvP6EZ_rJgulgAwB0-xUS2ap_BPNF9gk'; // Reemplaza con tu API key real
+$apiKey = ''; // Reemplaza con tu API key real
 $apiUrl = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent';
 
 // Función para limpiar y validar la entrada
