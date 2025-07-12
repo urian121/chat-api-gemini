@@ -1,4 +1,4 @@
-# 🤖 Chat IA - Gemini
+# 🤖 𝗖𝗵𝗮𝘁 𝗜𝗔 𝗰𝗼𝗻 𝗚𝗼𝗼𝗴𝗹𝗲 𝗚𝗲𝗺𝗶𝗻𝗶 𝟮.𝟬 𝗙𝗹𝗮𝘀𝗵
 
 Aplicación de chat inteligente con Google Gemini 2.0 Flash, diseño moderno, reconocimiento de voz y respuestas optimizadas para máxima eficiencia.
 
